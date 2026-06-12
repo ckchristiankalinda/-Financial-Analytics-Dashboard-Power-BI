@@ -71,11 +71,11 @@ The solution follows a Star Schema design:
 
 ### Executive Dashboard
 
-![Dashboard Overview](Images/overview_dashboard.png)
+![Dashboard Overview](image/Dashboard_Overview.png)
 
 ### Data Model
 
-![Data Model](Images/data_model.png)
+![Data Model](image/Data_model.png)
 
 ---
 
