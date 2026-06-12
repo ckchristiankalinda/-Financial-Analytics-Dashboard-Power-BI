@@ -92,7 +92,7 @@ This dashboard enables management to:
 
 ## Author
 
-**Christian Mutia Kalinda**
+**Mutia Kalinda Christian**
 
 Data Analyst | Power BI Developer
 
